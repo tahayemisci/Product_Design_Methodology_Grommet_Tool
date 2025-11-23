@@ -42,7 +42,7 @@ Tasarım süreci, sistematik ürün geliştirme adımlarını takip etmiştir:
 <img width="468" height="782" alt="image" src="https://github.com/user-attachments/assets/70fe5547-12b5-4a87-b614-84ed66564703" />
 
 ## 📂 Dosya İçeriği
-* `https://github.com/tahayemisci/Product_Design_Methodology_Grommet_Tool/blob/main/MechanicalSystemDesign-FinalProject.pdf`: Tüm metodolojik adımları, QFD matrislerini ve karar matrislerini içeren detaylı rapor.
+* `MechanicalSystemDesign-FinalProject.pdf`(https://github.com/tahayemisci/Product_Design_Methodology_Grommet_Tool/blob/main/MechanicalSystemDesign-FinalProject.pdf): Tüm metodolojik adımları, QFD matrislerini ve karar matrislerini içeren detaylı rapor.
 
 ---
 *Bu proje, ME 3061 Engineering Design dersi kapsamında, Nigel Cross'un "Engineering Design Methods" prensipleri temel alınarak hazırlanmıştır.*
